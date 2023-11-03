@@ -1,5 +1,5 @@
 
-public class P2 {
+public class Pattern2InvertedRightAngleTriangleinaStartPattern {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

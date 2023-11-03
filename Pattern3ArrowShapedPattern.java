@@ -1,5 +1,5 @@
 
-public class P3 {
+public class Pattern3ArrowShapedPattern {
 
 	public static void main(String[] args) {
 //	

@@ -1,5 +1,5 @@
 
-public class P1 {
+public class Pattern1RightAngleTriangle {
 
 	public static void main(String[] args) {
 //		*
