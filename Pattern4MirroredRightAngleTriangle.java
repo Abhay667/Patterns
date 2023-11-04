@@ -2,6 +2,15 @@
 public class Pattern4MirroredRightAngleTriangle {
 
 	public static void main(String[] args) {
+		 
+//		    *
+//		   **
+//		  ***
+//		 ****
+//		*****
+
+		
+		// it is hard coded
 int spaces=5;
 int rows =5;
 int count =1;
