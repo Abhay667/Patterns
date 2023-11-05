@@ -5,6 +5,8 @@ public class Pattern6MirroredArrowShapeStarPattern {
 		final int rows=9;
 		int spaces= 5;
 		int stars=1;
+		int spaces2=1;
+		int stars2=5;
 		for(int i=1;i<=rows;i++)// total times(rows)
 	{
 			if(i<=5)// upper part, left side
@@ -26,7 +28,23 @@ public class Pattern6MirroredArrowShapeStarPattern {
 			
 			}
 			
+			if(i>5)
+			{
 			
+			for(int j=1;j<=spaces2;j++)
+			{
+					System.out.print(" ");
+					
+			}
+			spaces2++;
+				
+				for(int j=1;j<stars2;j++)
+				{
+					System.out.print("*");
+				}
+				
+				stars2--;
+			}
 			
 			
 			System.out.println("");
