@@ -1,5 +1,5 @@
 
-public class Pattern {
+public class Pattern14VStarPattern {
 
 	public static void main(String[] args) {
 		int rows=3;
