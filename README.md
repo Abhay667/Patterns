@@ -25,7 +25,7 @@ Explore different categories of patterns to strengthen your understanding of Jav
    - [Hollow Rhombus Star Pattern](#pattern-20-hollow-rhombus-star-pattern)
    - [Half Diamond Star Pattern](#pattern-21-half-diamond-star-pattern)
 
-2. [Number Patterns](#number-patterns)
+2.** _Number Patterns_**
    - [Right-Angle Triangle Number Pattern](#pattern-22-right-angle-triangle-number-pattern)
    - [Floyd’s Triangle](#pattern-23-floyds-triangle)
    - [Pascal’s Program](#pattern-24-pascals-program)
