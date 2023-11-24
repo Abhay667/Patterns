@@ -2,7 +2,7 @@ This repository contains a collection of Java pattern programs, commonly asked i
 Explore different categories of patterns to strengthen your understanding of Java programming concepts.
 
 ## Table of Contents
-1. [Star Patterns](#star-patterns)
+1. _Star Patterns_****
    - [Right-Angle Triangle](Pattern1RightAngleTriangle.java)
    - [Inverted Right-Angle Triangle](#pattern-2-inverted-right-angle-triangle)
    - [Arrow-Shaped Pattern](#pattern-3-arrow-shaped-pattern)
