@@ -1,9 +1,9 @@
-This repository contains a collection of java pattern programs, commonly asked in interviews.
-Explore different categories of patterns to strengthen your understanding of java programming concepts.
+This repository contains a collection of Java pattern programs, commonly asked in interviews.
+Explore different categories of patterns to strengthen your understanding of Java programming concepts.
 
 ## Table of Contents
 1. [Star Patterns](#star-patterns)
-   - [Right-Angle Triangle](#pattern-1-right-angle-triangle)
+   - [Right-Angle Triangle](#https://github.com/Abhay667/Patterns/blob/main/Pattern1RightAngleTriangle.java)
    - [Inverted Right-Angle Triangle](#pattern-2-inverted-right-angle-triangle)
    - [Arrow-Shaped Pattern](#pattern-3-arrow-shaped-pattern)
    - [Mirrored Right-Angle Triangle](#pattern-4-mirrored-right-angle-triangle)
