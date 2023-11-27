@@ -5,9 +5,9 @@ Explore different categories of patterns to strengthen your understanding of Jav
 1. _**Star Patterns**_
    - [Right-Angle Triangle](Pattern1RightAngleTriangle.java)
    - [Inverted Right-Angle Triangle](Pattern2InvertedRightAngleTriangleinaStartPattern.java)
-   - [Arrow-Shaped Pattern](#pattern-3-arrow-shaped-pattern)
-   - [Mirrored Right-Angle Triangle](#pattern-4-mirrored-right-angle-triangle)
-   - [Inverted Mirrored Right-Angle Triangle](#pattern-5-inverted-mirrored-right-angle-triangle)
+   - [Arrow-Shaped Pattern](Pattern3ArrowShapedPattern.java)
+   - [Mirrored Right-Angle Triangle](Pattern4MirroredRightAngleTriangle.java)
+   - [Inverted Mirrored Right-Angle Triangle](Pattern5InvertedMirroredRightAngleTriangle.java)
    - [Mirrored Arrow-Shaped Star Pattern](#pattern-6-mirrored-arrow-shaped-star-pattern)
    - [Pyramid Star Pattern](#pattern-7-pyramid-star-pattern)
    - [Inverted Pyramid](#pattern-8-inverted-pyramid)
